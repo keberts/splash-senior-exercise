@@ -58,10 +58,6 @@ Rules:
 - Empty input produces an empty result.
 - Result ordering does not matter.
 
-The contract does not define what happens when two events for the same payment
-have identical timestamps. Identify that ambiguity and explain what you would do
-about it.
-
 Add whatever tests you consider important.
 
 ### Example
